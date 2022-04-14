@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/home/interns/adarsh/static/css/main.2c7b274a.chunk.css",
+    "main.js": "/home/interns/adarsh/static/js/main.b087fa67.chunk.js",
+    "main.js.map": "/home/interns/adarsh/static/js/main.b087fa67.chunk.js.map",
+    "runtime-main.js": "/home/interns/adarsh/static/js/runtime-main.2f493609.js",
+    "runtime-main.js.map": "/home/interns/adarsh/static/js/runtime-main.2f493609.js.map",
+    "static/css/2.b1609635.chunk.css": "/home/interns/adarsh/static/css/2.b1609635.chunk.css",
+    "static/js/2.10e314d5.chunk.js": "/home/interns/adarsh/static/js/2.10e314d5.chunk.js",
+    "static/js/2.10e314d5.chunk.js.map": "/home/interns/adarsh/static/js/2.10e314d5.chunk.js.map",
+    "index.html": "/home/interns/adarsh/index.html",
+    "static/css/2.b1609635.chunk.css.map": "/home/interns/adarsh/static/css/2.b1609635.chunk.css.map",
+    "static/css/main.2c7b274a.chunk.css.map": "/home/interns/adarsh/static/css/main.2c7b274a.chunk.css.map",
+    "static/js/2.10e314d5.chunk.js.LICENSE.txt": "/home/interns/adarsh/static/js/2.10e314d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f493609.js",
+    "static/css/2.b1609635.chunk.css",
+    "static/js/2.10e314d5.chunk.js",
+    "static/css/main.2c7b274a.chunk.css",
+    "static/js/main.b087fa67.chunk.js"
+  ]
+}
